@@ -1,2 +1,0 @@
-# wabot
-Wa bot
